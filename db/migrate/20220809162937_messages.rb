@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 # Create Messages Table
 class Messages < ActiveRecord::Migration[6.1]

@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Create /v1/messages
 module V1
   class MessagesController < ApplicationController
