@@ -1,4 +1,3 @@
-
 # Create Messages Table
 class Messages < ActiveRecord::Migration[6.1]
   def change
